@@ -26,4 +26,4 @@ Unzip and use `generate_pairs_identify_uwa()`  in `data_process.py`  to get the 
 python test_uwa.py
 ```
 
-Then use `/mnt/sdb/jyw_data/dgcnn/test_uwa_det.mat` to compute EER or draw DET curves.
+Then use `test_uwa_det.mat` to compute EER or draw DET curves.
