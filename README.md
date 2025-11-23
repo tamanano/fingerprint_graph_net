@@ -17,7 +17,10 @@ Download UWA data
 ```latex
 链接: https://pan.baidu.com/s/1rXaXvzPTax856wkNAcWpeQ 提取码: a5kj 
 ```
-
+or
+```latex
+https://drive.google.com/drive/folders/1odq_QQZSbPau45RkM2zogw5K57sNopHq?usp=drive_link
+```
 Unzip and use `generate_pairs_identify_uwa()`  in `data_process.py`  to get the testing txt. Need to change the path in this function.
 
 ### Testing
