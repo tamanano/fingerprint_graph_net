@@ -1,6 +1,6 @@
 # fingerprint_graph_net
 
-![arXiv](https://img.shields.io/badge/arXiv-2409.08782-b31b1b)
+[![arXiv](https://img.shields.io/badge/arXiv-2409.08782-b31b1b)](https://arxiv.org/abs/2409.08782)
 
 **This repo is the official implementation of:**
 
