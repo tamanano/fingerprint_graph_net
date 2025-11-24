@@ -8,14 +8,14 @@ IJCB 2025: [Improving Contactless Fingerprint Recognition with Robust 3D Feature
 
 ## Notice
 
-Now we release our Graph Embedding Network and the 3D minutiae on UWA, the Feature Extraction Network and other  data able to be released will be released soon.
+Now we release our 3D Feature Extraction Network testing code, our Graph Embedding Network and the 3D minutiae on UWA, you can download the datasets and preprocess the to 640*480 and run our codes.
 
 ## Data and model
 
 Download UWA data and trained model.
 
 ```latex
-链接: https://pan.baidu.com/s/1kh2RBG6bVF47F1j7PQ0dBQ 提取码: x5cs
+链接: https://pan.baidu.com/s/19BNxtOqtctkO-G3C69tqZQ 提取码: hvf5
 ```
 or
 ```latex
