@@ -12,7 +12,7 @@ Now we release our 3D Feature Extraction Network testing code, our Graph Embeddi
 
 ## Data and model
 
-Download UWA data and trained model.
+Download example 3D minutiae data and trained model.
 
 ```latex
 链接: https://pan.baidu.com/s/19BNxtOqtctkO-G3C69tqZQ 提取码: hvf5
