@@ -8,7 +8,7 @@ IJCB 2025: [Improving Contactless Fingerprint Recognition with Robust 3D Feature
 
 ## Notice
 
-Now we release our 3D Feature Extraction Network testing code, our Graph Embedding Network and the 3D minutiae on UWA, you can download the datasets and preprocess the to 640*480 and run our codes.
+Now we release our 3D Feature Extraction Network testing code, our Graph Embedding Network and the 3D minutiae on UWA. For the dataset used by the code, you need to apply to the dataset authors. This code does not provide a download link. You can preprocess them to 640*480 and run our codes.
 
 ## Data and model
 
