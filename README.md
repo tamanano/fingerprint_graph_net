@@ -15,7 +15,7 @@ Now we release our Graph Embedding Network and the 3D minutiae on UWA, the Featu
 Download UWA data 
 
 ```latex
-链接: https://pan.baidu.com/s/1rXaXvzPTax856wkNAcWpeQ 提取码: a5kj 
+链接: https://pan.baidu.com/s/1kh2RBG6bVF47F1j7PQ0dBQ 提取码: x5cs
 ```
 or
 ```latex
